@@ -1,0 +1,34 @@
+#This is a code for finding the majority element in an array where the element occurs more than half of the array.
+
+import java.util.*;
+public class MajorityElement
+{
+	public static void main(String args[]) {
+	    Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int a[] = new int[n+1];
+        for(int i = 0; i<n ; i++){
+            a[i] = sc.nextInt();
+        }
+        int maxc = 0, index = -1;
+        for(int i = 0; i<n; i++){
+            int c = 0;
+            for(int j =0; j<n; j++){
+                if(a[i] == a[j]){
+                    c++;
+                }
+            }
+            if(c>maxc){
+                maxc = c;
+                index = i;
+            }
+        }
+        if(maxc > n/2){
+            System.out.println("Majority element is : "+a[index]);
+        }
+        else{
+            System.out.println("There is no majority element");
+        }
+	        
+	}
+}
