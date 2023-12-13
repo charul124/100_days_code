@@ -1,13 +1,20 @@
 class Solution {
 public:
     int sumOddLengthSubarrays(vector<int>& arr) {
-        int n = arr.size();
-        int sum = 0;
-        
-        // traverse the array
-        for(int i = 0; i < n; i++)
-        {
-           sum = sum + (((n-i) * (i+1)+1)/2) * arr[i]; //O(n)
+        int sum=0;
+        for(int i=0; i<arr.size(); i++){
+            for(int j=i; j<arr.size(); j++){
+                if((j-i)%2 == 0){
+                    if(j==i){
+                        sum+=arr[j];
+                    }
+                    else{
+                        for(int k =i;k<=j;k++){
+                            sum+=arr[k];
+                        }
+                    } 
+                }  
+            }
         }
         return sum;
     }
