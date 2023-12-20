@@ -9,9 +9,7 @@ public:
         for(int j=0; j<word2.size(); j++){
             two = two+word2[j];
         }
-        if(one == two){
-            return true;
-        }
-        return false;
+        
+        return one == two;
     }
 };
