@@ -5,20 +5,18 @@ public:
         int n = nums.size();
         vector<int> right(n);
         vector<int> left(n);
-        vector<int> ans(n);
-        
 
         for(int i=1; i<n; i++){
             right[0] = 1;
             right[i] = right[i-1]*nums[i-1];
         }
-        for(int j=n-2;j>=0; j--){
+        for(int i=n-2;i>=0; i--){
             left[n-1] = 1;
-            left[j] = left[j+1]*nums[j+1];
+            left[i] = left[i+1]*nums[i+1];
         }
-        for(int k =0; k<n; k++){
-            ans[k]= right[k]*left[k];
+        for(int i =0; i<n; i++){
+            nums[i]= right[i]*left[i];
         }
-        return ans;
+        return nums;
     }
 };
