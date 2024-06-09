@@ -7,11 +7,13 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/charul124/100_days_code/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
 # Hash Table
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/charul124/100_days_code/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
 # String
 |  |
 | ------- |
@@ -28,3 +30,4 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
