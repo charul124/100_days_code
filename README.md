@@ -8,6 +8,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/charul124/100_days_code/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -31,3 +32,11 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
