@@ -12,6 +12,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/charul124/100_days_code/tree/master/1319-unique-number-of-occurrences) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0075-sort-colors](https://github.com/charul124/100_days_code/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
@@ -60,3 +62,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1258-article-views-i](https://github.com/charul124/100_days_code/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/charul124/100_days_code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/charul124/100_days_code/tree/master/1908-recyclable-and-low-fat-products) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
