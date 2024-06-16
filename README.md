@@ -6,6 +6,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/charul124/100_days_code/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/charul124/100_days_code/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/charul124/100_days_code/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/charul124/100_days_code/tree/master/0648-replace-words) |
@@ -70,6 +71,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/charul124/100_days_code/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/charul124/100_days_code/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/charul124/100_days_code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
