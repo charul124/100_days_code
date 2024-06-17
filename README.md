@@ -36,6 +36,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/charul124/100_days_code/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/charul124/100_days_code/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/charul124/100_days_code/tree/master/0633-sum-of-square-numbers) |
 # Database
 |  |
 | ------- |
@@ -79,3 +81,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0502-ipo](https://github.com/charul124/100_days_code/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/charul124/100_days_code/tree/master/0633-sum-of-square-numbers) |
