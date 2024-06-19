@@ -18,6 +18,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/charul124/100_days_code/tree/master/1319-unique-number-of-occurrences) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/charul124/100_days_code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -94,6 +95,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/charul124/100_days_code/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/charul124/100_days_code/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/charul124/100_days_code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Queue
 |  |
 | ------- |
