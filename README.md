@@ -19,6 +19,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1138-grumpy-bookstore-owner](https://github.com/charul124/100_days_code/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/charul124/100_days_code/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/charul124/100_days_code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/charul124/100_days_code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/charul124/100_days_code/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -30,6 +31,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/charul124/100_days_code/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/charul124/100_days_code/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/charul124/100_days_code/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/charul124/100_days_code/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -109,6 +112,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/charul124/100_days_code/tree/master/0239-sliding-window-maximum) |
 | [1138-grumpy-bookstore-owner](https://github.com/charul124/100_days_code/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/charul124/100_days_code/tree/master/1370-count-number-of-nice-subarrays) |
 # Monotonic Queue
 |  |
 | ------- |
