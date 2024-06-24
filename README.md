@@ -15,6 +15,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0853-most-profit-assigning-work](https://github.com/charul124/100_days_code/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/charul124/100_days_code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/charul124/100_days_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/charul124/100_days_code/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/charul124/100_days_code/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
@@ -52,6 +53,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/charul124/100_days_code/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/charul124/100_days_code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/charul124/100_days_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Sorting
 |  |
 | ------- |
@@ -109,11 +111,13 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/charul124/100_days_code/tree/master/0239-sliding-window-maximum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/charul124/100_days_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/charul124/100_days_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/charul124/100_days_code/tree/master/0239-sliding-window-maximum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/charul124/100_days_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/charul124/100_days_code/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/charul124/100_days_code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/charul124/100_days_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -145,3 +149,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/charul124/100_days_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/charul124/100_days_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
