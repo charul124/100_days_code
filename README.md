@@ -93,6 +93,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0502-ipo](https://github.com/charul124/100_days_code/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/charul124/100_days_code/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/charul124/100_days_code/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
@@ -131,11 +132,13 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charul124/100_days_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/charul124/100_days_code/tree/master/0543-diameter-of-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charul124/100_days_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/charul124/100_days_code/tree/master/0543-diameter-of-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charul124/100_days_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/charul124/100_days_code/tree/master/0543-diameter-of-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
 # Ordered Set
 |  |
 | ------- |
@@ -153,3 +157,11 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/charul124/100_days_code/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
