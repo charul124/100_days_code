@@ -65,6 +65,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1217-relative-sort-array](https://github.com/charul124/100_days_code/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/charul124/100_days_code/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/charul124/100_days_code/tree/master/2379-maximum-total-importance-of-roads) |
 # Counting Sort
 |  |
 | ------- |
@@ -95,12 +96,14 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0982-minimum-increment-to-make-array-unique](https://github.com/charul124/100_days_code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/charul124/100_days_code/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/charul124/100_days_code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/charul124/100_days_code/tree/master/2379-maximum-total-importance-of-roads) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/charul124/100_days_code/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/charul124/100_days_code/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/charul124/100_days_code/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/charul124/100_days_code/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
@@ -173,3 +176,4 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/charul124/100_days_code/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/charul124/100_days_code/tree/master/2379-maximum-total-importance-of-roads) |
