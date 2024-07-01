@@ -213,4 +213,8 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/charul124/100_days_code/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/charul124/100_days_code/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
