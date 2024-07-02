@@ -64,14 +64,28 @@ struct Node {
 */
 
 // Function to check whether two linked lists are identical or not.
+int len(struct Node *head1){
+    int len = 0;
+    while(head1 != NULL){
+        head1 = head1->next;
+        len++;
+    }
+    return len;
+}
+
 bool areIdentical(struct Node *head1, struct Node *head2) {
     // Code here
-    if((!head1 && head2) || (head1 && !head2)) return false;
-    Node *i = head1;
-    Node *j = head2;
-    for(; i != NULL && j != NULL; i = i->next, j = j->next) {
-        if(i->data != j->data) return false;
+    if(len(head1) != len(head2)){
+        return false;
     }
-    if((!i && j) || (!j && i)) return false;
+    while(head1 != NULL && head2 != NULL){
+        if(head1 -> data != head2 -> data){
+            return false;
+        }
+        else{
+            head1 = head1->next;
+            head2 = head2->next;
+        }
+    }
     return true;
 }
