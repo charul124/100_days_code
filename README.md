@@ -216,11 +216,13 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/charul124/100_days_code/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -233,5 +235,10 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
