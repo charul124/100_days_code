@@ -183,6 +183,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/charul124/100_days_code/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/charul124/100_days_code/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/charul124/100_days_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/charul124/100_days_code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
@@ -203,11 +204,13 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/charul124/100_days_code/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/charul124/100_days_code/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/charul124/100_days_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/charul124/100_days_code/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/charul124/100_days_code/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/charul124/100_days_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Union Find
 |  |
@@ -241,4 +244,8 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/charul124/100_days_code/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
