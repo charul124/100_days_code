@@ -257,4 +257,12 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/charul124/100_days_code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/charul124/100_days_code/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/charul124/100_days_code/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
