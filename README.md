@@ -264,6 +264,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/charul124/100_days_code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/charul124/100_days_code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
