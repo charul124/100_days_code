@@ -203,12 +203,14 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/charul124/100_days_code/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/charul124/100_days_code/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/charul124/100_days_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/charul124/100_days_code/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/charul124/100_days_code/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/charul124/100_days_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -220,6 +222,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/charul124/100_days_code/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -228,6 +231,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -269,4 +273,8 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/charul124/100_days_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
