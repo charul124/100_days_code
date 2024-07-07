@@ -269,6 +269,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/charul124/100_days_code/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/charul124/100_days_code/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/charul124/100_days_code/tree/master/2645-pass-the-pillow) |
 ## Database
@@ -282,5 +283,6 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/charul124/100_days_code/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/charul124/100_days_code/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
