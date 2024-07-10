@@ -227,6 +227,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/charul124/100_days_code/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/charul124/100_days_code/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/charul124/100_days_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/charul124/100_days_code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -255,6 +256,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
+| [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,4 +308,8 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/charul124/100_days_code/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
