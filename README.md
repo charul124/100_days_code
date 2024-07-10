@@ -241,6 +241,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charul124/100_days_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -259,6 +260,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charul124/100_days_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/charul124/100_days_code/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
