@@ -283,6 +283,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/charul124/100_days_code/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/charul124/100_days_code/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/charul124/100_days_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/charul124/100_days_code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
