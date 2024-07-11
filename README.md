@@ -261,6 +261,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/charul124/100_days_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charul124/100_days_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
@@ -317,6 +318,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charul124/100_days_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 ## String Matching
 |  |
