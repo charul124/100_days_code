@@ -263,6 +263,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charul124/100_days_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/charul124/100_days_code/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0055-jump-game](https://github.com/charul124/100_days_code/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/charul124/100_days_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/charul124/100_days_code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
 |  |
@@ -320,6 +322,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charul124/100_days_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/charul124/100_days_code/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
