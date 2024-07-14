@@ -221,6 +221,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/charul124/100_days_code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/charul124/100_days_code/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -241,6 +242,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/charul124/100_days_code/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charul124/100_days_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -252,6 +254,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/charul124/100_days_code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
