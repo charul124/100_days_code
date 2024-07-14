@@ -239,6 +239,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/charul124/100_days_code/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0015-3sum](https://github.com/charul124/100_days_code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/charul124/100_days_code/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/charul124/100_days_code/tree/master/2846-robot-collisions) |
 ## String
@@ -266,6 +268,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/charul124/100_days_code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
+| [0726-number-of-atoms](https://github.com/charul124/100_days_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charul124/100_days_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/charul124/100_days_code/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -326,6 +329,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/charul124/100_days_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charul124/100_days_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/charul124/100_days_code/tree/master/1818-maximum-score-from-removing-substrings) |
