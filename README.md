@@ -231,6 +231,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [1720-crawler-log-folder](https://github.com/charul124/100_days_code/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/charul124/100_days_code/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/charul124/100_days_code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2350-find-closest-number-to-zero](https://github.com/charul124/100_days_code/tree/master/2350-find-closest-number-to-zero) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/charul124/100_days_code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/charul124/100_days_code/tree/master/2846-robot-collisions) |
 ## Hash Table
