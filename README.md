@@ -225,6 +225,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/charul124/100_days_code/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0274-h-index](https://github.com/charul124/100_days_code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/charul124/100_days_code/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -258,6 +259,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | ------- |
 | [0015-3sum](https://github.com/charul124/100_days_code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
+| [0274-h-index](https://github.com/charul124/100_days_code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/charul124/100_days_code/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/charul124/100_days_code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -339,4 +341,8 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charul124/100_days_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/charul124/100_days_code/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
