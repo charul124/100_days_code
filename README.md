@@ -225,6 +225,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0049-group-anagrams](https://github.com/charul124/100_days_code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/charul124/100_days_code/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charul124/100_days_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0189-rotate-array](https://github.com/charul124/100_days_code/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/charul124/100_days_code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/charul124/100_days_code/tree/master/1293-three-consecutive-odds) |
@@ -248,6 +249,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 | [0015-3sum](https://github.com/charul124/100_days_code/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charul124/100_days_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/charul124/100_days_code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/charul124/100_days_code/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charul124/100_days_code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -314,6 +316,7 @@ Here I'll be posting my all the 100 days of code challenge to stay updated and m
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/charul124/100_days_code/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/charul124/100_days_code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/charul124/100_days_code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/charul124/100_days_code/tree/master/2645-pass-the-pillow) |
