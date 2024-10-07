@@ -19,15 +19,20 @@ class compare{
 class Solution {
 public:
     string reorganizeString(string s) {
-        map<char, int> umap;
+        int freq[26] = {0};
+        for(int i = 0; i < s.length(); i++){
+            char ch = s[i];
+            freq[ch - 'a']++;
+        }
+
         priority_queue<node, vector<node>, compare> maxheap;
-        for(char c : s){
-            umap[c]++;
+        for(int i = 0 ;i < 26; i++){
+            if(freq[i] != 0){
+                node temp(i + 'a', freq[i]);
+                maxheap.push(temp);
+            }
         }
         string ans = "";
-        for (auto& x : umap) {
-            maxheap.push(node(x.first, x.second));
-        }
         while(maxheap.size() > 1){
             node first = maxheap.top();
             maxheap.pop();
@@ -43,21 +48,15 @@ public:
             if(first.count != 0){
                 maxheap.push(first);
             }
-            
             if(second.count != 0){
                 maxheap.push(second);
             }
         }
-
         if(maxheap.size() == 1){
             node temp = maxheap.top();
             maxheap.pop();
-            if(temp.count == 1){
-                ans += temp.data;
-            }
-            else{
-                return "";
-            }
+            if(temp.count == 1) ans += temp.data;
+            else return "";
         }
         return ans;
     }
